@@ -8,5 +8,5 @@ int main()
 	
 	int a,b;
 	cin >> a>>b;
-	cout << (a&b); //~ : 비트단위 and 연산
+	cout << (a&b); // & : 비트단위 and 연산
 }
